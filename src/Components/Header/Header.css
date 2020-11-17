@@ -1,0 +1,56 @@
+.row {
+    width: 100%;
+}
+
+.name {
+    background: -webkit-linear-gradient(#ffc8fd, #00ff55);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.my-navbar {
+    background: #fff;
+}
+
+.navbar-toggler {
+    background-color:#fff;
+    box-shadow: 0 0 0 1px gray;
+}
+
+.navbar-toggler i {
+    color: black;
+    font-size: 29px;
+}
+
+ul li {
+    margin: auto;
+}
+
+ul li a {
+    font-size: 19px;
+    padding: 9px 25px;
+    color: black;
+    display: inline-block;
+}
+
+#login {
+    padding: 5px 11px;
+    margin-top: 2px;
+    font-weight: bold;
+    color: #fff;
+    height: auto;
+    width: 85px;
+    margin: auto;
+    background: #275A53;
+}
+
+#login:hover {
+    color: #fff;
+}
+
+ul li a:hover {
+    background: #1abc9c;
+    color: #fff;
+}

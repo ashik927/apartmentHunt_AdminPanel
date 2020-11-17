@@ -1,0 +1,38 @@
+.banner-area {
+    background: url('https://iili.io/FoGASj.png');
+    background-size: cover;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.banner-area .search-area {
+    width: 100%;
+}
+
+.banner-area .search-area h1 {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.banner-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(72,74,73,.8);
+    width: 100%;
+    height: 100%;
+}
+.button{
+    border: none;
+    padding:  9px;
+    background: #275A53;
+    color: #fff;
+    margin-left: 9px;
+}
+#search-box{
+    padding: 9px;
+    width: 55%;
+    border-radius: 9px;
+}

@@ -1,0 +1,20 @@
+.card-style {
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.all-area{
+    background: #F1F6F4;
+    padding: 25px 0;
+}
+.single-apertment-header{
+    margin-bottom: 35px;
+}
+.view {
+    border: none;
+    padding: 9px;
+    background: #275A53;
+    color: #fff;
+}
+.butt{
+    float: right;
+}
